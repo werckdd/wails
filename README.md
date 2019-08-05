@@ -1,0 +1,2 @@
+# wails
+go wails
