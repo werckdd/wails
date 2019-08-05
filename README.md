@@ -1,0 +1,4 @@
+# wails
+go wails
+LooooooooooooooK!
+
